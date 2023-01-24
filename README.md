@@ -1,9 +1,9 @@
 Quick Start
 
 
-Intall packages
+//Install packages
 
-create .env file with bellow variables
+//create .env file with bellow variables
 
 PORT=//port to run project
 BUCKET_NAME= //firebase bucket name
